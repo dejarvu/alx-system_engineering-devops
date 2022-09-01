@@ -1,1 +1,1 @@
-Display the contents list cd
+ script that copy working directory to home directory
