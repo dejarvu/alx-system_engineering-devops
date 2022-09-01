@@ -1,1 +1,1 @@
- script that copy working directory to home directory
+Display current long format
